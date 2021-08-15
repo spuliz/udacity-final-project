@@ -58,29 +58,41 @@ install the packages listed in the file requirements.txt
 ## References and supporting materials
 [1] pandas.get_dummies. In Pandas Documentation. Retrieved from:
 https://pandas.pydata.org/docs/reference/api/pandas.get_dummies.html
+
 [2] Impute Missing Values with SciKit’s Imputer – Python. In Medium. Retrieved from:
 https://medium.com/technofunnel/handling-missing-data-in-python-using-scikit-imputer7607c8957740
+
 [3] StandardScaler. In Scikit-Learn Documentation. Retrieved from:
 https://scikit-learn.org/stable/modules/generated/sklearn.preprocessing.StandardScaler.html
+
 [4] Understanding Principal Component Analysis. In Medium. Retrieved from:
 https://medium.com/@aptrishu/understanding-principle-component-analysis-e32be0253ef0
+
 [5] K-Means Clustering in Python: A Practical Guide. In Real Python. Retrieved from:
 https://realpython.com/k-means-clustering-python/
+
 [6] Classification: ROC Curve and AUC. In Google Developers. Retrieved from:
 https://www.datanovia.com/en/wp-content/uploads/dn-tutorials/002-partitionalclustering/images/partitioning-clustering.png
+
 [7] RandomForestClassifier. In Scikit-Learn Documentation. Retrieved from:
 https://scikitlearn.org/stable/modules/generated/sklearn.ensemble.RandomForestClassifier.html
+
 [8] Understanding Random Forests Classifiers in Python. In Datacamp Community. Retrieved
 from: https://www.datacamp.com/community/tutorials/random-forests-classifier-python
+
 [9] GradientBoostingClassifier. In Scikit-Learn Documentation. Retrieved from:
-https://scikitlearn.org/stable/modules/generated/sklearn.ensemble.GradientBoostingClassifier.ht
-ml
+https://scikitlearn.org/stable/modules/generated/sklearn.ensemble.GradientBoostingClassifier.html
+
 [10] Gradient Boosting with Scikit-Learn, XGBoost, LightGBM, and CatBoot. In Machine
 Learning Mastery. Retrieved from: https://machinelearningmastery.com/gradient-boostingwith-scikit-learn-xgboost-lightgbm-and-catboost/
+
 [11] Github repository: Machine-Learning-Engineer-Nanodegree-Program-Udacity. Retrived from: https://github.com/AilingLiu/Machine-Learning-Engineer-Nanodegree-Program-Udacity/blob/master/5.1%20Capstone%20Project%20-%20Arvato%20Finance/Customer_Segmentation_Report.ipynb
+
 [12] Github repository: Arvato-MLProject. Retrieved from: https://github.com/dilayercelik/Arvato-MLProject
+
 [13] SVC. In Scikit-Learn Documentation. Retrieved from:
 https://scikitlearn.org/stable/modules/generated/sklearn.svm.SVC.html
+
 [14] Elbow Method for Optimal Value k in K-Means. In GeeksforGeeks. Retrieved from:
 https://www.geeksforgeeks.org/elbow-method-for-optimal-value-of-k-in-kmeans/
 
