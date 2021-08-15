@@ -5,6 +5,12 @@ This GitHub repository hosts the Capstone project I developed and completed as p
 Arvato Financial Services is a company operating in the mail-order sales business in Germany and is a subsidiary of Bertelsmann.
 The company wants to grow their customer base by better targeting clusters of the general population with their marketing campaigns.
 
+## Table of contents
+- [Notebook](https://github.com/spuliz/udacity-final-project/blob/main/Arvato%20Project%20Workbook.ipynb): main project jupyter notebook
+- [Metadata](https://github.com/spuliz/udacity-final-project/tree/main/metadata): folder containing the metadata of the datasets 
+- [Report](https://github.com/spuliz/udacity-final-project/tree/main/report): Folder contaning the initial projet proposal and the final report 
+- [Utils](https://github.com/spuliz/udacity-final-project/tree/main/utils): Helper functions used to clean the datasets and retrieved from: https://github.com/AilingLiu/Machine-Learning-Engineer-Nanodegree-Program-Udacity
+
 ## Datasets
 Demographics data of the general population and of prior customers of the business will be used in order to identify those individuals who are more likely to respond to the marketing campaign and to become customers of the mail-order company.
 Datasets are available to use within the related Udacity Workspace and cannot be publicly shared in this repository.
@@ -65,6 +71,7 @@ https://www.geeksforgeeks.org/elbow-method-for-optimal-value-of-k-in-kmeans/
 
 ## Author
 Saverio Pulizzi
+
 email: saverio.pulizzi91@gmail.com
 
 
