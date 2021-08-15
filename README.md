@@ -86,7 +86,7 @@ https://scikitlearn.org/stable/modules/generated/sklearn.ensemble.GradientBoosti
 [10] Gradient Boosting with Scikit-Learn, XGBoost, LightGBM, and CatBoot. In Machine
 Learning Mastery. Retrieved from: https://machinelearningmastery.com/gradient-boostingwith-scikit-learn-xgboost-lightgbm-and-catboost/
 
-[11] Github repository: Machine-Learning-Engineer-Nanodegree-Program-Udacity. Retrived from: https://github.com/AilingLiu/Machine-Learning-Engineer-Nanodegree-Program-Udacity/blob/master/5.1%20Capstone%20Project%20-%20Arvato%20Finance/Customer_Segmentation_Report.ipynb
+[11] Github repository: Machine-Learning-Engineer-Nanodegree-Program-Udacity. Retrived from: https://github.com/AilingLiu/Machine-Learning-Engineer-Nanodegree-Program-Udacity/
 
 [12] Github repository: Arvato-MLProject. Retrieved from: https://github.com/dilayercelik/Arvato-MLProject
 
