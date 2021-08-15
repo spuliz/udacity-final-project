@@ -15,6 +15,21 @@ The company wants to grow their customer base by better targeting clusters of th
 Demographics data of the general population and of prior customers of the business will be used in order to identify those individuals who are more likely to respond to the marketing campaign and to become customers of the mail-order company.
 Datasets are available to use within the related Udacity Workspace and cannot be publicly shared in this repository.
 
+The data has been provided by Bertelsmann Arvato Analytics, and consists of demographics data of the general population of Germany, for prior customers of the company and of individuals targeted on a marketing campaign. 
+
+In particular, there are four datasets: 
+
+Udacity_AZDIAS_052018.csv: Demographics data for the general population of Germany; 891 211 persons (rows) x 366 features (columns).
+Udacity_CUSTOMERS_052018.csv: Demographics data for customers of a mail-order company; 191 652 persons (rows) x 369 features (columns).
+Udacity_MAILOUT_052018_TRAIN.csv: Demographics data for individuals who were targets of a marketing campaign; 42 982 persons (rows) x 367 (columns).
+Udacity_MAILOUT_052018_TEST.csv: Demographics data for individuals who were targets of a marketing campaign; 42 833 persons (rows) x 366 (columns).
+
+Each row of the demographics files represents a single person, but also includes information outside of individuals, including information about their household, building, and neighborhood.
+
+The "CUSTOMERS" file contains three extra columns ('CUSTOMER_GROUP', 'ONLINE_PURCHASE', and 'PRODUCT_GROUP'), which provide broad information about the customers depicted in the file. 
+The original "MAILOUT" file included one additional column, "RESPONSE", which indicated whether or not each recipient became a customer of the company. For the "TRAIN" subset, this column has been retained, but in the "TEST" subset it has been removed.
+
+
 ## The ML system
 The overall system can be diveded in two parts:
 - The first part where unsupervised learning methods will be used to analyze attributes of established customers and the general population in order to create clusters and compare them.
