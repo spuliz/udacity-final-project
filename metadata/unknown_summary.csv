@@ -1,0 +1,234 @@
+,Attribute,missing_or_unknown,Description
+0,AGER_TYP,[-1],best-ager typology
+1,ALTERSKATEGORIE_GROB,"['-1, 0']",age through prename analysis 
+2,ALTER_HH,[0],main age within the household
+3,ANREDE_KZ,"['-1, 0']",gender
+4,BALLRAUM,[-1],distance to the next metropole
+5,BIP_FLAG,[-1],
+6,CAMEO_DEUG_2015,"['-1, X, XX']",CAMEO_4.0: uppergroup
+7,CAMEO_DEUINTL_2015,[-1],CAMEO_4.0: international classification
+8,CJT_GESAMTTYP,[0],Customer-Journey-Typology relating to the preferred information and buying channels of consumers
+9,D19_KK_KUNDENTYP,[-1],consumption movement in the last 12 months
+10,EWDICHTE,[-1],density of inhabitants per square kilometer
+11,FINANZTYP,[-1],best descirbing financial type for the peron
+12,FINANZ_ANLEGER,[-1],financial typology: investor
+13,FINANZ_HAUSBAUER,[-1],financial typology: main focus is the own house
+14,FINANZ_MINIMALIST,[-1],financial typology: low financial interest
+15,FINANZ_SPARER,[-1],financial typology: money saver
+16,FINANZ_UNAUFFAELLIGER,[-1],financial typology: unremarkable
+17,FINANZ_VORSORGER,[-1],financial typology: be prepared
+18,GEBAEUDETYP,"['-1, 0']",type of building (residential or commercial)
+19,GEOSCORE_KLS7,"['-1, 0']",microgeographical risk index concerning population solvency
+20,HAUSHALTSSTRUKTUR,"['-1, 0']","structure of the household (single-hh, couple with different surnames, family,...)"
+21,HEALTH_TYP,[-1],health typology
+22,HH_EINKOMMEN_SCORE,"['-1, 0']",estimated household_net_income 
+23,INNENSTADT,[-1],distance to the city centre
+24,KBA05_ALTER1,"['-1, 9']",share of car owners less than 31 years old
+25,KBA05_ALTER2,"['-1, 9']",share of car owners inbetween 31 and 45 years of age
+26,KBA05_ALTER3,"['-1, 9']",share of car owners inbetween 45 and 60 years of age
+27,KBA05_ALTER4,"['-1, 9']",share of cars owners elder than 61 years
+28,KBA05_ANHANG,"['-1, 9']",share of trailers in the microcell
+29,KBA05_ANTG1,[-1],number of 1-2 family houses in the cell
+30,KBA05_ANTG2,[-1],number of 3-5 family houses in the cell
+31,KBA05_ANTG3,[-1],number of 6-10 family houses in the cell
+32,KBA05_ANTG4,[-1],number of >10 family houses in the cell
+33,KBA05_BAUMAX,"['-1, 0']",most common building-type within the cell
+34,KBA05_CCM1,"['-1, 9']",share of cars with less than 1399ccm
+35,KBA05_CCM2,"['-1, 9']",share of cars with 1400ccm to 1799 ccm
+36,KBA05_CCM3,"['-1, 9']",share of cars with 1800ccm to 2499 ccm
+37,KBA05_CCM4,"['-1, 9']",share of cars with more than 2499ccm
+38,KBA05_DIESEL,"['-1, 9']",share of cars with Diesel-engine in the microcell
+39,KBA05_FRAU,"['-1, 9']",share of female car owners
+40,KBA05_GBZ,"['-1, 0']",number of buildings in the microcell
+41,KBA05_HERST1,"['-1, 9']","share of top German manufacturer (Mercedes, BMW) "
+42,KBA05_HERST2,"['-1, 9']",share of Volkswagen-Cars (including Audi)
+43,KBA05_HERST3,"['-1, 9']",share of Ford/Opel
+44,KBA05_HERST4,"['-1, 9']","share of European manufacturer (e.g. Fiat, Peugeot, Rover,...)"
+45,KBA05_HERST5,"['-1, 9']","share of asian manufacturer (e.g. Toyota, Kia,...)"
+46,KBA05_HERSTTEMP,"['-1, 9']",Development of the most common car manufacturers in the neighbourhood
+47,KBA05_KRSAQUOT,"['-1, 9']",share of cars per household (reffered to county average)
+48,KBA05_KRSHERST1,"['-1, 9']",share of Mercedes/BMW (reffered to the county average)
+49,KBA05_KRSHERST2,"['-1, 9']",share of Volkswagen (reffered to the county average)
+50,KBA05_KRSHERST3,"['-1, 9']",share of Ford/Opel (reffered to the county average)
+51,KBA05_KRSKLEIN,"['-1, 9']",share of small cars (referred to the county average)
+52,KBA05_KRSOBER,"['-1, 9']",share of upper class cars (referred to the county average)
+53,KBA05_KRSVAN,"['-1, 9']",share of vans (referred to the county average)
+54,KBA05_KRSZUL,"['-1, 9']",share of newbuilt cars (referred to the county average)
+55,KBA05_KW1,"['-1, 9']",share of cars with less than 59 KW engine power
+56,KBA05_KW2,"['-1, 9']",share of cars with an engine power between 60 and 119 KW
+57,KBA05_KW3,"['-1, 9']",share of cars with an engine power of more than 119 KW
+58,KBA05_MAXAH,"['-1, 9']",most common age of car owners in the microcell
+59,KBA05_MAXBJ,"['-1, 9']",most common age of the cars in the microcell
+60,KBA05_MAXHERST,"['-1, 9']",most common car manufacturer in the microcell
+61,KBA05_MAXSEG,"['-1, 9']",most common car segment in the microcell
+62,KBA05_MAXVORB,"['-1, 9']",most common preowner structure in the microcell
+63,KBA05_MOD1,"['-1, 9']",share of upper class cars (in an AZ specific definition)
+64,KBA05_MOD2,"['-1, 9']",share of middle class cars (in an AZ specific definition)
+65,KBA05_MOD3,"['-1, 9']",share of Golf-class cars (in an AZ specific definition)
+66,KBA05_MOD4,"['-1, 9']",share of small cars (in an AZ specific definition)
+67,KBA05_MOD8,"['-1, 9']",share of vans (in an AZ specific definition)
+68,KBA05_MODTEMP,"['-1, 9']",Development of the most common car segment in the neighbourhood
+69,KBA05_MOTOR,"['-1, 9']",most common engine size in the microcell
+70,KBA05_MOTRAD,"['-1, 9']",share of motorcycles per household
+71,KBA05_SEG1,"['-1, 9']",share of very small cars (Ford Ka etc.) in the microcell
+72,KBA05_SEG10,"['-1, 9']","share of more specific cars (Vans, convertables, all-terrains, MUVs etc.)"
+73,KBA05_SEG2,"['-1, 9']","share of small and very small cars (Ford Fiesta, Ford Ka etc.) in the microcell"
+74,KBA05_SEG3,"['-1, 9']",share of lowe midclass cars (Ford Focus etc.) in the microcell
+75,KBA05_SEG4,"['-1, 9']",share of middle class cars (Ford Mondeo etc.) in the microcell
+76,KBA05_SEG5,"['-1, 9']","share of upper middle class cars and upper class cars (BMW5er, BMW7er etc.)"
+77,KBA05_SEG6,"['-1, 9']",share of upper class cars (BMW 7er etc.) in the microcell
+78,KBA05_SEG7,"['-1, 9']",share of all-terrain vehicles and MUVs in the microcell
+79,KBA05_SEG8,"['-1, 9']",share of roadster and convertables in the microcell
+80,KBA05_SEG9,"['-1, 9']",share of vans in the microcell
+81,KBA05_VORB0,"['-1, 9']",share of cars with no preowner
+82,KBA05_VORB1,"['-1, 9']",share of cars with one or two preowner
+83,KBA05_VORB2,"['-1, 9']",share of cars with more than two preowner
+84,KBA05_ZUL1,"['-1, 9']",share of cars built before 1994
+85,KBA05_ZUL2,"['-1, 9']",share of cars built between 1994 and 2000
+86,KBA05_ZUL3,"['-1, 9']",share of cars built between 2001 and 2002
+87,KBA05_ZUL4,"['-1, 9']",share of cars built from 2003 on
+88,KBA13_ALTERHALTER_30,[-1],share of car owners below 31 within the PLZ8
+89,KBA13_ALTERHALTER_45,[-1],share of car owners between 31 and 45 within the PLZ8
+90,KBA13_ALTERHALTER_60,[-1],share of car owners between 46 and 60 within the PLZ8
+91,KBA13_ALTERHALTER_61,[-1],share of car owners elder than 60 within the PLZ8
+92,KBA13_AUDI,[-1],share of AUDI within the PLZ8
+93,KBA13_AUTOQUOTE,[-1],share of cars per household within the PLZ8
+94,KBA13_BJ_1999,[-1],share of cars built between 1995 and 1999 within the PLZ8
+95,KBA13_BJ_2000,[-1],share of cars built between 2000 and 2003 within the PLZ8
+96,KBA13_BJ_2004,[-1],share of cars built before 2004 within the PLZ8
+97,KBA13_BJ_2006,[-1],share of cars built between 2005 and 2006 within the PLZ8
+98,KBA13_BJ_2008,[-1],share of cars built in 2008 within the PLZ8
+99,KBA13_BJ_2009,[-1],share of cars built in 2009 within the PLZ8
+100,KBA13_BMW,[-1],share of BMW within the PLZ8
+101,KBA13_CCM_0_1400,[-1],share of cars with less than 1401ccm within the PLZ8
+102,KBA13_CCM_1000,[-1],share of cars with less than 1000ccm within the PLZ8
+103,KBA13_CCM_1200,[-1],share of cars with less than 1000ccm within the PLZ8
+104,KBA13_CCM_1400,[-1],share of cars with 1200ccm to 1399ccm within the PLZ8
+105,KBA13_CCM_1400_2500,[-1],share of cars with 1401ccm to 2500 ccm within the PLZ8
+106,KBA13_CCM_1500,[-1],share of cars with 1400ccm to 1499ccm within the PLZ8
+107,KBA13_CCM_1600,[-1],share of cars with 1500ccm to 1599ccm within the PLZ8
+108,KBA13_CCM_1800,[-1],share of cars with 1600ccm to 1799ccm within the PLZ8
+109,KBA13_CCM_2000,[-1],share of cars with 1800ccm to 1999ccm within the PLZ8
+110,KBA13_CCM_2500,[-1],share of cars with 2000ccm to 2499ccm within the PLZ8
+111,KBA13_CCM_2501,[-1],share of cars with more than 2501ccm within the PLZ8
+112,KBA13_CCM_3000,[-1],
+113,KBA13_CCM_3001,[-1],
+114,KBA13_FAB_ASIEN,[-1],share of other Asian Manufacturers within the PLZ8
+115,KBA13_FAB_SONSTIGE,[-1],share of other Manufacturers within the PLZ8
+116,KBA13_FIAT,[-1],share of FIAT within the PLZ8
+117,KBA13_FORD,[-1],share of FORD within the PLZ8
+118,KBA13_HALTER_20,[-1],share of car owners below 21 within the PLZ8
+119,KBA13_HALTER_25,[-1],share of car owners between 21 and 25 within the PLZ8
+120,KBA13_HALTER_30,[-1],share of car owners between 26 and 30 within the PLZ8
+121,KBA13_HALTER_35,[-1],share of car owners between 31 and 35 within the PLZ8
+122,KBA13_HALTER_40,[-1],share of car owners between 36 and 40 within the PLZ8
+123,KBA13_HALTER_45,[-1],share of car owners between 41 and 45 within the PLZ8
+124,KBA13_HALTER_50,[-1],share of car owners between 46 and 50 within the PLZ8
+125,KBA13_HALTER_55,[-1],share of car owners between 51 and 55 within the PLZ8
+126,KBA13_HALTER_60,[-1],share of car owners between 56 and 60 within the PLZ8
+127,KBA13_HALTER_65,[-1],share of car owners between 61 and 65 within the PLZ8
+128,KBA13_HALTER_66,[-1],share of car owners over 66 within the PLZ8
+129,KBA13_HERST_ASIEN,[-1],share of asian cars within the PLZ8
+130,KBA13_HERST_AUDI_VW,[-1],share of Volkswagen & Audi within the PLZ8
+131,KBA13_HERST_BMW_BENZ,[-1],share of BMW & Mercedes Benz within the PLZ8
+132,KBA13_HERST_EUROPA,[-1],share of European cars within the PLZ8
+133,KBA13_HERST_FORD_OPEL,[-1],share of Ford & Opel/Vauxhall within the PLZ8
+134,KBA13_HERST_SONST,[-1],share of other cars within the PLZ8
+135,KBA13_KMH_0_140,[-1],share of cars with max speed 140 km/h within the PLZ8
+136,KBA13_KMH_110,[-1],share of cars with max speed 110 km/h within the PLZ8
+137,KBA13_KMH_140,[-1],share of cars with max speed between 110 km/h and 140km/h within the PLZ8
+138,KBA13_KMH_140_210,[-1],share of cars with max speed between 140 and 210 km/h within the PLZ8
+139,KBA13_KMH_180,[-1],share of cars with max speed between 110 km/h and 180km/h within the PLZ8
+140,KBA13_KMH_211,[-1],share of cars with a greater max speed than 210 km/h within the PLZ8
+141,KBA13_KMH_250,[-1],share of cars with max speed between 210 and 250 km/h within the PLZ8
+142,KBA13_KMH_251,[-1],share of cars with a greater max speed than 250 km/h within the PLZ8
+143,KBA13_KRSAQUOT,[-1],share of cars per household (referred to the county average) - PLZ8
+144,KBA13_KRSHERST_AUDI_VW,[-1],share of Volkswagen (referred to the county average) - PLZ8
+145,KBA13_KRSHERST_BMW_BENZ,[-1],share of BMW/Mercedes Benz (referred to the county average) - PLZ8
+146,KBA13_KRSHERST_FORD_OPEL,[-1],share of FORD/Opel (referred to the county average) - PLZ8
+147,KBA13_KRSSEG_KLEIN,[-1],share of small cars (referred to the county average) - PLZ8
+148,KBA13_KRSSEG_OBER,[-1],share of upper class cars (referred to the county average) - PLZ8
+149,KBA13_KRSSEG_VAN,[-1],share of vans (referred to the county average) - PLZ8
+150,KBA13_KRSZUL_NEU,[-1],share of newbuilt cars (referred to the county average) - PLZ8
+151,KBA13_KW_0_60,[-1],share of cars with less than 61 KW engine power - PLZ8
+152,KBA13_KW_110,[-1],share of cars with an engine power between 91 and 110 KW - PLZ8
+153,KBA13_KW_120,[-1],share of cars with an engine power between 111 and 120 KW - PLZ8
+154,KBA13_KW_121,[-1],share of cars with an engine power of more than 121 KW - PLZ8
+155,KBA13_KW_30,[-1],share of cars up to 30 KW engine power - PLZ8
+156,KBA13_KW_40,[-1],share of cars with an engine power between 31 and 40 KW - PLZ8
+157,KBA13_KW_50,[-1],share of cars with an engine power between 41 and 50 KW - PLZ8
+158,KBA13_KW_60,[-1],share of cars with an engine power between 51 and 60 KW - PLZ8
+159,KBA13_KW_61_120,[-1],share of cars with an engine power between 61 and 120 KW - PLZ8
+160,KBA13_KW_70,[-1],share of cars with an engine power between 61 and 70 KW - PLZ8
+161,KBA13_KW_80,[-1],share of cars with an engine power between 71 and 80 KW - PLZ8
+162,KBA13_KW_90,[-1],share of cars with an engine power between 81 and 90 KW - PLZ8
+163,KBA13_MAZDA,[-1],share of MAZDA within the PLZ8
+164,KBA13_MERCEDES,[-1],share of MERCEDES within the PLZ8
+165,KBA13_MOTOR,[-1],most common motor size within the PLZ8
+166,KBA13_NISSAN,[-1],share of NISSAN within the PLZ8
+167,KBA13_OPEL,[-1],share of OPEL within the PLZ8
+168,KBA13_PEUGEOT,[-1],share of PEUGEOT within the PLZ8
+169,KBA13_RENAULT,[-1],share of RENAULT within the PLZ8
+170,KBA13_SEG_GELAENDEWAGEN,[-1],share of allterrain within the PLZ8
+171,KBA13_SEG_GROSSRAUMVANS,[-1],share of big sized vans within the PLZ8
+172,KBA13_SEG_KLEINST,[-1],share of very small cars (Ford Ka etc.) in the PLZ8
+173,KBA13_SEG_KLEINWAGEN,[-1],"share of small and very small cars (Ford Fiesta, Ford Ka etc.) in the PLZ8"
+174,KBA13_SEG_KOMPAKTKLASSE,[-1],share of lowe midclass cars (Ford Focus etc.) in the PLZ8
+175,KBA13_SEG_MINIVANS,[-1],share of minivans within the PLZ8
+176,KBA13_SEG_MINIWAGEN,[-1],share of minicars within the PLZ8
+177,KBA13_SEG_MITTELKLASSE,[-1],share of middle class cars (Ford Mondeo etc.) in the PLZ8
+178,KBA13_SEG_OBEREMITTELKLASSE,[-1],"share of upper middle class cars and upper class cars (BMW5er, BMW7er etc.)"
+179,KBA13_SEG_OBERKLASSE,[-1],share of upper class cars (BMW 7er etc.) in the PLZ8
+180,KBA13_SEG_SONSTIGE,[-1],share of other cars within the PLZ8
+181,KBA13_SEG_SPORTWAGEN,[-1],share of sportscars within the PLZ8
+182,KBA13_SEG_UTILITIES,[-1],share of MUVs/SUVs within the PLZ8
+183,KBA13_SEG_VAN,[-1],share of vans within the PLZ8
+184,KBA13_SEG_WOHNMOBILE,[-1],share of roadmobiles within the PLZ8
+185,KBA13_SITZE_4,[-1],number of cars with less than 5 seats in the PLZ8
+186,KBA13_SITZE_5,[-1],number of cars with 5 seats in the PLZ8
+187,KBA13_SITZE_6,[-1],number of cars with more than 5 seats in the PLZ8
+188,KBA13_TOYOTA,[-1],share of TOYOTA within the PLZ8
+189,KBA13_VORB_0,[-1],share of cars with no preowner - PLZ8
+190,KBA13_VORB_1,[-1],share of cars with 1 preowner - PLZ8
+191,KBA13_VORB_1_2,[-1],share of cars with 1 or 2 preowner - PLZ8
+192,KBA13_VORB_2,[-1],share of cars with 2 preowner - PLZ8
+193,KBA13_VORB_3,[-1],share of cars with more than 2 preowner - PLZ8
+194,KBA13_VW,[-1],share of VOLKSWAGEN within the PLZ8
+195,KKK,"['-1, 0']",purchasing power
+196,NATIONALITAET_KZ,"['-1, 0']",nationaltity
+197,ORTSGR_KLS9,['-1'],classified number of inhabitants
+198,OST_WEST_KZ,[-1],flag indicating the former GDR/FRG
+199,PLZ8_ANTG1,[-1],number of 1-2 family houses in the PLZ8
+200,PLZ8_ANTG2,[-1],number of 3-5 family houses in the PLZ8
+201,PLZ8_ANTG3,[-1],number of 6-10 family houses in the PLZ8
+202,PLZ8_ANTG4,[-1],number of >10 family houses in the PLZ8
+203,PLZ8_GBZ,[-1],number of buildings within the PLZ8
+204,PLZ8_HHZ,[-1],number of households within the PLZ8
+205,PRAEGENDE_JUGENDJAHRE,"['-1, 0']",dominating movement in the person's youth (avantgarde or mainstream)
+206,REGIOTYP,"['-1, 0']",AZ neighbourhood typology
+207,RETOURTYP_BK_S,[0],return type
+208,SEMIO_DOM,"['-1, 9']",affinity indicating in what way the person is dominant minded
+209,SEMIO_ERL,"['-1, 9']",affinity indicating in what way the person is eventful orientated
+210,SEMIO_FAM,"['-1, 9']",affinity indicating in what way the person is familiar minded
+211,SEMIO_KAEM,"['-1, 9']",affinity indicating in what way the person is of a fightfull attitude
+212,SEMIO_KRIT,"['-1, 9']",affinity indicating in what way the person is critical minded
+213,SEMIO_KULT,"['-1, 9']",affinity indicating in what way the person is cultural minded
+214,SEMIO_LUST,"['-1, 9']",affinity indicating in what way the person is sensual minded
+215,SEMIO_MAT,"['-1, 9']",affinity indicating in what way the person is material minded
+216,SEMIO_PFLICHT,"['-1, 9']",affinity indicating in what way the person is dutyfull traditional minded
+217,SEMIO_RAT,"['-1, 9']",affinity indicating in what way the person is of a rational mind
+218,SEMIO_REL,"['-1, 9']",affinity indicating in what way the person is religious
+219,SEMIO_SOZ,"['-1, 9']",affinity indicating in what way the person is social minded
+220,SEMIO_TRADV,"['-1, 9']",affinity indicating in what way the person is traditional minded
+221,SEMIO_VERT,"['-1, 9']",affinity indicating in what way the person is dreamily
+222,SHOPPER_TYP,[-1],shopping typology
+223,SOHO_FLAG,[-1],small office/home office flag
+224,TITEL_KZ,"['-1, 0']",flag whether this person holds an academic title
+225,VERS_TYP,[-1],insurance typology 
+226,WACHSTUMSGEBIET_NB,"['-1, 0']",indication whether this is a growing or declining microcell
+227,WOHNDAUER_2008,"['-1, 0']",length of residenca
+228,WOHNLAGE,[-1],neighbourhood-area (very good -> rather poor; rural nbh)
+229,W_KEIT_KIND_HH,"['-1, 0']",likelihood of a child present in this household (can be specified in child age groups)
+230,ZABEOTYP,"['-1, 9']",typification of energy consumers
+231,CAMEO_DEU_2015,"['X, XX']",CAMEO
+232,CAMEO_INTL_2015,"['X, XX']",CAMEO
