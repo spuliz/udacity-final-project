@@ -9,6 +9,7 @@ The company wants to grow their customer base by better targeting clusters of th
 - [Notebook](https://github.com/spuliz/udacity-final-project/blob/main/Arvato%20Project%20Workbook.ipynb): main project jupyter notebook
 - [Metadata](https://github.com/spuliz/udacity-final-project/tree/main/metadata): folder containing the metadata of the datasets 
 - [Report](https://github.com/spuliz/udacity-final-project/tree/main/report): Folder contaning the initial projet proposal and the final report 
+- [Utils](https://github.com/spuliz/udacity-final-project/tree/main/utils): Helper functions used to clean the datasets and retrieved from: https://github.com/AilingLiu/Machine-Learning-Engineer-Nanodegree-Program-Udacity
 
 ## Datasets
 Demographics data of the general population and of prior customers of the business will be used in order to identify those individuals who are more likely to respond to the marketing campaign and to become customers of the mail-order company.
