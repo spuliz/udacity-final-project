@@ -55,6 +55,10 @@ The main packages used are:
 ## Setup
 install the packages listed in the file requirements.txt
 
+# 4th best score in a Kaggle competition with 500+ teams!
+![image](https://user-images.githubusercontent.com/15948985/130328547-e3ae022d-2915-4fdf-b4cf-92fd42b794a6.png)
+
+
 ## References and supporting materials
 [1] pandas.get_dummies. In Pandas Documentation. Retrieved from:
 https://pandas.pydata.org/docs/reference/api/pandas.get_dummies.html
