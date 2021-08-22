@@ -31,11 +31,11 @@ def fixDataset(df):
     OUTPUT:
     df - dataframe with fixed features   
     """
-    print('fix index')
-    df = df.set_index(['LNR'])
     print('fixing cameo columns...')
+#     CAMEO_DEUG_2015
     df['CAMEO_DEUG_2015'] = df['CAMEO_DEUG_2015'].replace({'X': np.nan})
     df['CAMEO_DEUG_2015'] = df['CAMEO_DEUG_2015'].astype(float)
+#    CAMEO_INTL_2015 
     df['CAMEO_INTL_2015'] = df['CAMEO_INTL_2015'].replace({'XX':np.nan})
     df['CAMEO_INTL_2015'] = df['CAMEO_INTL_2015'].astype(float)
     
@@ -109,14 +109,19 @@ def clean_dataset(df, columns_to_drop, customer_df=False, mailout_df = False):
     OUTPUT:
         df (dataframe): cleaned dataset  
     """
+    print('fix index')
+    df = df.set_index(['LNR'])
     if customer_df == True:
         df = df.drop(labels=['CUSTOMER_GROUP', 'ONLINE_PURCHASE', 'PRODUCT_GROUP'], axis=1)
     if 'Unnamed: 0' in df:
         df.drop('Unnamed: 0', axis = 1, inplace = True)
-    df = fixDataset(df)
+    if 'Unnamed: 0.1' in df:
+        df.drop('Unnamed: 0.1', axis = 1, inplace = True)
     if mailout_df == False:
+        print("dropping duplicates rows")
         df = df.drop_duplicates()
     df = drop_null_columns(df, columns_to_drop)
+    df = fixDataset(df)
     print('Done!')
     return df
 
@@ -129,7 +134,7 @@ def transform_dataset(df, imputer):
         OUTPUT: a transformed pandas dataframe 
     """
     print("imputing...")
-    df_imputed = pd.DataFrame(imputer.fit_transform(df))
+    df_imputed = pd.DataFrame(imputer.transform(df)) #fit has been done with azdias dataset.
     print("Done!")
     df_imputed.columns = df.columns
     df_imputed = df_imputed.set_index(df.index)
