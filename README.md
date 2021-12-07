@@ -55,8 +55,8 @@ The main packages used are:
 ## Setup
 install the packages listed in the file requirements.txt
 
-# 4th best score in a Kaggle competition with 500+ teams!
-![image](https://user-images.githubusercontent.com/15948985/130328547-e3ae022d-2915-4fdf-b4cf-92fd42b794a6.png)
+# 2nd best score in a Kaggle competition with 500+ teams!
+![image](https://user-images.githubusercontent.com/15948985/145068576-75beed1f-a9f8-4467-baa3-29a412cbf84c.png)
 
 
 ## References and supporting materials
